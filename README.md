@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="IMHArR-vztLpva9T0bwSqiUIKS9NvnJ2H1fySId0qGM" />
 # Xloop share - تطبيق مشاركة الملفات السريع
 
 تطبيق أندرويد مجاني وخفيف لمشاركة الملفات والتطبيقات بسرعة فائقة عبر تقنية Wi-Fi Direct بدون إنترنت وبدون إعلانات مزعجة.
